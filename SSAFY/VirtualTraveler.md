@@ -1,8 +1,8 @@
 # VirtualTraveler
 
-- GitLab -  <a href=" https://lab.ssafy.com/woohyeonjo/virtualtraveler ">VirtualTraveler</a>
+- GitLab -  <a href="https://lab.ssafy.com/woohyeonjo/virtualtraveler">VirtualTraveler</a>
 
-- GitHub - <a href=" https://github.com/NerdInRoom ">NerdInRoom</a>
+- GitHub - <a href="https://github.com/NerdInRoom">NerdInRoom</a>
 
   
 
