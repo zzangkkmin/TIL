@@ -22,7 +22,7 @@ Today I learned를 이제서야 시작합니다. -2019.10.15-
 <a href="./SSAFY/VirtualTraveler.md">SSAFY Project</a>
 
 - <a href="./SSAFY/MarkDown_Grammar.md">2019.10.15 / markdown setting</a>
-- <a href="./SSAFY/Firebase.md">2019.10.16 / Firebase</a>
+- <a href="./SSAFY/Firebase.md">2019.10.25 (updated) / Firebase</a>
 
 
 
